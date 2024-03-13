@@ -2,7 +2,7 @@
 
 # Agenda de Contatos
 
-Código fonte e testes unitários para o Projeto Integrador V-A do curso de Análise e Desenvolvimento de Sistemas EAD do CESMAC.
+Código-fonte e testes unitários para o Projeto Integrador V-A do curso de Análise e Desenvolvimento de Sistemas EAD do CESMAC.
 
 ## Objetivo
 
