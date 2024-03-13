@@ -21,7 +21,7 @@ class TestAgendaContatos(unittest.TestCase):
         """
         self.agenda.adicionar_contato("Joao", "123456789")
         self.assertIn("Joao", self.agenda.contatos)
-        self.assertEqual(self.agenda.contatos["Joao"], "123456780")
+        self.assertEqual(self.agenda.contatos["Joao"], "123456789")
 
     def test_deve_editar_contato_existente(self):
         self.agenda.adicionar_contato("Fernanda", "555666777")
